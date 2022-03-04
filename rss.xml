@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <tittle>LongBoardCordoba</tittle>
+        <link>https://www.ejemplo.com</link>
+        <description>Publicaciones de nuestra red social de instagram </description>
+        <language>es-es</language>
+        <category>deporte extremo</category>
+        <managingEditor>joserivera@example.com (Jose Rivera)</managingEditor>
+        <lastBuiltDate>Sat, 26 Feb 2022 22:00:00 GMT</lastBuiltDate>
+
+
+        <item>
+            <tittle>La innombrable</tittle>
+            <link>https://www.instagram.com/tv/CIgVDiEqkUm/?hl=es</link>
+            <description>Descenso por la innombrable</description>
+            <pubDate>Wed, 23 Feb 2022 18:00:00 GMT</pubDate>
+            <image>
+                <url>
+                    https://www.peakpx.com/en/hd-wallpaper-desktop-kcnbb                
+                </url>
+                <link> https://unsplash.com/wallpapers/sports/skateboard </link>
+            </image>
+        </item>
+
+        <item>
+            <tittle>Concienciación</tittle>
+            <link>https://www.instagram.com/tv/CT7bybQqMcx/?hl=es</link>
+            <description>Concienciación por nuestras calles de Córdoba</description>
+            <pubDate>Wed, 23 Feb 2022 18:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <tittle>Dancing</tittle>
+            <link>https://www.instagram.com/p/CReuNtkq-Il/</link>
+            <description>Sesion de DancingLongBoard</description>
+            <pubDate>Wed, 23 Feb 2022 18:00:00 GMT</pubDate>
+        </item>
+
+
+        <item>
+            <tittle>Vuelve el Secret Spot</tittle>
+            <link>https://www.instagram.com/p/CQ6olSsqYW9/</link>
+            <description>Regreso al Secret Spot</description>
+            <pubDate>Thu, 24 Feb 2022 14:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <tittle>Muerte de Josh Neuman</tittle>
+            <link>https://www.marca.com/tiramillas/actualidad/sucesos/2022/02/09/6203845e268e3ec5718b45db.html</link>
+            <description>Accidente que acabo con la vida de Josh Neuman</description>
+            <pubDate>Fri, 25 Feb 2022 12:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <tittle>LongBoard Red Bull</tittle>
+            <link>https://www.redbull.com/es-es/no-paws-down-carrera-longboard-descenso-video</link>
+            <description>¡La carrera de descenso mas demente!</description>
+            <pubDate>Sat, 26 Feb 2022 22:00:00 GMT</pubDate>
+        </item>
+
+    </channel>
+</rss>

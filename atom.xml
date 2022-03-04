@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title> Dron</title>
+    <subtitle> Publicaciones de cosas relacionadas con drones </subtitle>
+    <link href="https://www.ejemplo.com"/>
+    <category> categoria abierta y especifica </category>
+    <updated>2022-03-02T18:30:00Z</updated>
+    <author>
+        <name>Jose Rivera</name>
+        <email>joserivera@example.com</email>
+    </author>
+
+    <entry>
+        <title>Drones Academy INSCRIPCIONES </title>
+        <link href="https://dedrones.es/dedrones-academy/?doing_wp_cron=1646383599.0467629432678222656250"/>
+        <subtitle>Aprende a montar drones FPV </subtitle>
+        <updated>2022-03-01T12:30:00Z</updated>
+        <author>
+            <name>Jose Rivera</name>
+            <email>joserivera@example.com</email>
+            <uri>https://www.ejemplo.com</uri>
+        </author>
+    </entry>
+
+    <entry>
+        <title>Nuestro nuevo canal de instagram </title>
+        <link href="https://www.instagram.com/dedronesfpv/"/>
+        <subtitle>Nuevo canal de instagram </subtitle>
+        <id>https://www.ejemplo.com</id>
+        <updated>2022-03-01T18:30:00Z</updated>
+        <summary>Canal de instagram donde posteamos articulos ralacionados con Drones</summary>
+    </entry>
+
+    <entry>
+        <title>Legislacion de drones vigente en España </title>
+        <link href="https://www.oneair.es/normativa-drones-espana-aesa/"/>
+        <subtitle>Normativas de vuelo en España </subtitle>
+        <updated>2022-03-02T12:30:00Z</updated>
+    </entry>
+
+    <entry>
+        <title> Review Jumper T-Lite </title>
+        <link href="https://www.youtube.com/watch?v=GRH6kgAoH1E"/>
+        <subtitle> Nueva review de la emisora Jumper T-Lite</subtitle>
+        <updated>2022-03-02T18:30:00Z</updated>
+        <author>
+            <name>Jose Rivera</name>
+            <email>joserivera@example.com</email>
+            <uri>https://www.ejemplo.com</uri>
+        </author>
+    </entry>
+</feed>
